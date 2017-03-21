@@ -20,3 +20,6 @@ Features:
 Navigation Drawer with many options for creating remainder for single person or a gropu with notifications
 
 MD5 encryption for token generation 
+
+
+Duration for project-4 months
